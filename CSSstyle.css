@@ -1,0 +1,16 @@
+span{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+ul li {
+    color: brown;
+    letter-spacing: 5px;
+}
+p{
+    color: blue;
+    font-style: oblique;
+}
+a{
+    background-color: yellow;
+}
